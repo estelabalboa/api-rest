@@ -4,3 +4,12 @@ get
 post
 put
 
+#Video 07 installing mongodb (mac)
+--brew.sh
+--copy command and past on terminal
+brew install mongodb
+mongod
+show dbs
+
+--intalling libraries
+nmp install -S mongoose
