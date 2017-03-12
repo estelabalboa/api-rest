@@ -1,0 +1,19 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Proyecto de API RESTful con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estelabalboa/api-rest.git"
+  },
+  "author": "Estela Balboa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estelabalboa/api-rest/issues"
+  },
+  "homepage": "https://github.com/estelabalboa/api-rest#readme"
+}
